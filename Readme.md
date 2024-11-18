@@ -1,4 +1,4 @@
-Pagina Web de proyecto de innovación BioPlasti del Tecnm campus Zacatepec.
+Pagina Web de proyecto de innovación BioPlasti del Tecnm campus Zacatepec. Solo da click en el enlace a la derecha y vizualizala!!!
 
 ## Autor: JoseIND
 
